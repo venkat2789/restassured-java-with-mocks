@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/customer/101/accounts",
+		"bodyPatterns":[{
+			"equalToJson": { "id": 1001, "type": "savings", "balance": "0" }
+		}] 
+    },
+    "response": {
+        "status": 201,
+		"headers": { "Content-Type": "application/json" },
+        "jsonBody": { "result": "OK" }
+    }
+}
