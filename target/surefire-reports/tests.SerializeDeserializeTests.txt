@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: tests.SerializeDeserializeTests
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.229 s - in tests.SerializeDeserializeTests
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.22 s - in tests.SerializeDeserializeTests
